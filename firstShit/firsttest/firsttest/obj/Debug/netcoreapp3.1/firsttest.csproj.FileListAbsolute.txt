@@ -1,0 +1,14 @@
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.AssemblyInfoInputs.cache
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.AssemblyInfo.cs
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.csproj.CoreCompileInputs.cache
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.exe
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.deps.json
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.runtimeconfig.json
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.runtimeconfig.dev.json
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.dll
+E:\c#\firstShit\firsttest\firsttest\bin\Debug\netcoreapp3.1\firsttest.pdb
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.dll
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.pdb
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.genruntimeconfig.cache
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.csproj.AssemblyReference.cache
+E:\c#\firstShit\firsttest\firsttest\obj\Debug\netcoreapp3.1\firsttest.GeneratedMSBuildEditorConfig.editorconfig
